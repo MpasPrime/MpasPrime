@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Opa tudo bem sou o Marcelo , atualmente tenho 27 anos , natural de Goiania-Goias .Sou facinado por tecnologia desenvolvimento e jogos !
+Opa tudo bem sou o Marcelo , atualmente tenho 27 anos , natural de Goiania-Goias .Sou facinado por tecnologia e desenvolvimento de jogos !
 
 <p align="left">
      <a href="https://github.com/MpasPrime?tab=repositories&sort=stargazers">
@@ -104,7 +104,7 @@ Opa tudo bem sou o Marcelo , atualmente tenho 27 anos , natural de Goiania-Goias
 
 ### Status
 
-<p>
+
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -120,4 +120,3 @@ Opa tudo bem sou o Marcelo , atualmente tenho 27 anos , natural de Goiania-Goias
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MpasPrime&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
