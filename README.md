@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Opa tudo bem sou o Marcelo , atualmente tenho 27 anos , natural de Goiania-Goias .Sou facinado por tecnologia e desenvolvimento de jogos !
+Opa tudo bem sou o Marcelo , atualmente tenho 27 anos , natural de Goiania-Goias .Cursando Análise e desenvolvimento de sistemas (ADS)na Unialfa .Sou facinado por tecnologias e desenvolvimento de jogos !
 
 <p align="left">
      <a href="https://github.com/MpasPrime?tab=repositories&sort=stargazers">
